@@ -1,5 +1,6 @@
 #This function is used to compare the cost to work between staying and moving to a new house
 #In this function I will use n to stand for the distance to work if I move to another location
+#
 
 
 distance = 52.0     # the distance to work right now is 52 km, one way
